@@ -1,0 +1,26 @@
+Age,Height (m),Height (in),Gender,Ethnicity,Daytime variations (morning/afternoon/evening),FEV1 (litres),FVC (litres),FER (%),PEF (litre/min),Device,IAQ Index,PM2.5,FEV1 Ref Value,FVC Ref Value,FER Ref. Value,PEF Ref. Value
+36,1.5,59,female,Asian -PK,afternoon,2.37,2.37,100,327,SP80B,Good,23,2.46,2.86,86,363
+36,1.5,59,female,Asian -PK,afternoon,2.32,2.37,97.6,305,SP80B,Good,23,2.46,2.86,86,363
+36,1.5,59,female,Asian -PK,afternoon,1.98,1.98,100,250,MicroPlus,Good,23,2.46,2.86,86,363
+36,1.5,59,female,Asian -PK,afternoon,2.17,2.17,100,304,MicroPlus,Good,23,2.46,2.86,86,363
+36,1.5,59,female,Asian -PK,evening,2.14,2.14,100,325,SP80B,Good,28,2.46,2.86,86,363
+36,1.5,59,female,Asian -PK,evening,2.09,2.09,100,337,SP80B,Good,28,2.46,2.86,86,363
+36,1.5,59,female,Asian -PK,evening,2.14,2.17,98.8,137,SP80B,Good,28,2.46,2.86,86,363
+38,1.7,66,male,Asian -PK,evening,2.73,3.48,78.7,241,SP80B,Good,28,3.68,4.44,84,536
+38,1.7,66,male,Asian -PK,evening,2.45,3.63,67.5,160,SP80B,Good,28,3.68,4.44,84,536
+38,1.7,66,male,Asian -PK,evening,2.06,2.06,100,290,SP80B,Good,28,3.68,4.44,84,536
+38,1.7,66,male,Asian -PK,evening,2.3,2.3,100,295,MicroPlus,Good,28,3.68,4.44,84,536
+38,1.7,66,male,Asian -PK,evening,2.28,2.32,98,459,MicroPlus,Good,28,3.68,4.44,84,536
+38,1.7,66,male,Asian -PK,evening,2.57,2.59,99,363,MicroPlus,Good,28,3.68,4.44,84,536
+36,1.5,59,female,Asian -PK,morning,1.96,1.96,100,284,SP80B,Good,28,2.46,2.86,82,363
+36,1.5,59,female,Asian -PK,morning,1.94,1.94,100,269,SP80B,Good,28,2.46,2.86,82,363
+36,1.5,59,female,Asian -PK,morning,1.95,1.95,100,266,SP80B,Good,28,2.46,2.86,82,363
+36,1.5,59,female,Asian -PK,morning,1.81,1.82,99,295,MicroPlus,Good,24,2.46,2.86,82,363
+36,1.5,59,female,Asian -PK,morning,1.85,1.87,98,297,MicroPlus,Good,24,2.46,2.86,82,363
+36,1.5,59,female,Asian -PK,morning,1.86,1.86,100,265,MicroPlus,Good,24,2.46,2.86,82,363
+36,1.5,59,female,Asian -PK,evening,2.05,2.09,98,328,MicroPlus,Serious,406,2.46,2.86,82,363
+36,1.5,59,female,Asian -PK,evening,2.01,2.01,100,326,MicroPlus,Serious,406,2.46,2.86,82,363
+36,1.5,59,female,Asian -PK,evening,1.89,1.89,100,310,MicroPlus,Serious,406,2.46,2.86,82,363
+36,1.5,59,female,Asian -PK,evening,2.1,2.1,100,5.32,SP80B,Serious,400,2.46,2.86,82,363
+36,1.5,59,female,Asian -PK,evening,2.03,2.03,100,5.16,SP80B,Serious,400,2.46,2.86,82,363
+36,1.5,59,female,Asian -PK,evening,1.94,1.94,100,5.26,SP80B,Serious,400,2.46,2.86,82,363
